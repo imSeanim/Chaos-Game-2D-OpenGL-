@@ -1,8 +1,13 @@
 Inspiration for implementation by KleberPF: https://www.reddit.com/r/opengl/comments/p3z86w/sierpinski_triangle_from_dice_rolls_simulation/
+
 Set up (OpenGL tutorial by Victor Gordan): https://www.youtube.com/watch?v=XpBGwZNyUh0
+
 Chaos Game by Numberphile: https://www.youtube.com/watch?v=kbKtFN71Lfs&t
+
 Chaos Game wikipedia: https://en.wikipedia.org/wiki/Chaos_game
+
 More Chaos Game resources by Mitch Richling: https://www.mitchr.me/SS/ChaosGame/index.html
+
 
 # Chaos-Game-2D-OpenGL-
 <div class="row">
