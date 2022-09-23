@@ -7,7 +7,7 @@ Chaos Game by Numberphile: https://www.youtube.com/watch?v=kbKtFN71Lfs&t
 Chaos Game wikipedia: https://en.wikipedia.org/wiki/Chaos_game
 
 More Chaos Game resources by Mitch Richling: https://www.mitchr.me/SS/ChaosGame/index.html
-
+________________________________________________________________________________________________
 ** How to run **
 Download the Zip file. Unzip the "Libraries.zip" file and place it in the "Chaos-Game-2D-OpenGL" folder. Open the .sln file and run it. 
 
