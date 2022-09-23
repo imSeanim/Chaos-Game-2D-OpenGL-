@@ -18,6 +18,8 @@ More Chaos Game resources by Mitch Richling: https://www.mitchr.me/SS/ChaosGame/
   <img src="examples/c5.PNG?raw=true" width="300">
   <img src="examples/c6.PNG?raw=true" width="300">
   <img src="examples/c7.PNG?raw=true" width="300">
+  <img src="examples/Capture8.PNG?raw=true" width="300">
+  <img src="examples/Capture9.PNG?raw=true" width="300">
   <img src="examples/c8.PNG?raw=true" width="300">
   <img src="examples/c9.PNG?raw=true" width="300">
   <img src="examples/c10.PNG?raw=true" width="300">
